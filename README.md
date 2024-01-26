@@ -4,7 +4,7 @@ Welcome to my GitHub!<br>
 I'm a front-end developer
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,dart,flutter,vscode,androidstudio,git,github&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,dart,flutter,vscode,androidstudio,git,github,bootstrap&theme=dark"/>
   </a>
   
 ### 🌐 Socials:
